@@ -79,3 +79,4 @@ def _add_redir(siuid, display_id):
 
 if __name__ == '__main__':
     add_redir()
+    print 11111111
